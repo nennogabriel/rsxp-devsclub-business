@@ -27,6 +27,8 @@ Com o foco no adolescente ele poderá acompanhar suas conquistas e encontrar pr�
 ## Frontend
 Repositório: https://github.com/ricardotecnicob/devsclub 
 
+Rank de classificação dos alunos exclusivo para empresas parceiras.
+
 Roadmap:
 * Front para agente validadores (cursos, escolas e empresas)
 
