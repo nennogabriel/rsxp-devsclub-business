@@ -18,17 +18,23 @@ Repositório: https://github.com/Thierry-Santos/DevsClub
 Com o foco no adolescente ele poderá acompanhar suas conquistas e encontrar prêmios diversos. As conquistas geram bages sobre diversas atividades, desde escolares até atividades específicas em tecnologia e lógica de programação cujo o peso é maior.
 
 
+![login](/login.jpeg?raw=true "login")
+![dashboard](/dashboard.jpeg?raw=true "dashboard")
+![badges](/badges.jpeg?raw=true "badges")
+![incentivos](/incentivos.jpeg?raw=true "incentivos")
+
+
 ## Frontend
 Repositório: https://github.com/ricardotecnicob/devsclub 
 
 Roadmap:
-Front para agente validadores (cursos, escolas e empresas)
+* Front para agente validadores (cursos, escolas e empresas)
 
 ## Backend
 
 Roadmap:
-Autenticação por redes sociais
-API para validadores (cursos, escolas e empresas)
+* Autenticação por redes sociais
+* API para validadores (cursos, escolas e empresas)
 
 
 ## Business
@@ -48,6 +54,9 @@ Uso de Badges por conquistas
 Competição entre amigos
 Recompensas diversas.
 
+
+### Parceirias conquistadas
+Durante o evento nos conquistamos a parceria de empresas que fornecem cursos em tecnologia e premiações valiosas por empresas como Hotmart e Link Api
 
 
 
