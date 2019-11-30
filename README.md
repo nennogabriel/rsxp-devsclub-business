@@ -20,7 +20,7 @@ Com o foco no adolescente ele poder√° acompanhar suas conquistas e encontrar pr√
 
 ![login](/login.jpeg?raw=true "login")
 ![dashboard](/dashboard.jpeg?raw=true "dashboard")
-![badges](/badges.jpeg?raw=true "badges")
+![badges](/badge.jpeg?raw=true "badges")
 ![incentivos](/incentivos.jpeg?raw=true "incentivos")
 
 
